@@ -1,4 +1,4 @@
-# Easy-business - E com app
+# Easy-business - E Com App
 Team Felidae 
 Members - Malitha M.V -it19970332
           Priyal N.C.I - it19970332
